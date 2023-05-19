@@ -1,0 +1,17 @@
+body {
+  background-color: #221f1f;
+  min-height: 100vh;
+  margin: 0;
+  color: #fff;
+}
+
+.tst-container {
+  display: flex;
+  height: 100vh;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+.tst-container .right {
+  width: 50%;
+}
